@@ -43,7 +43,9 @@ Each card's value are as follows:
 Important terms:
 
 Hit - You ask for an extra card.
+
 Stay - You are content with your score.
+
 Bust - You went over the score of 21; you lose your bet.
 
 
