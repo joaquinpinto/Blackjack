@@ -3,6 +3,8 @@
 Joaquin Pinto's Blackjack Project
 Created June 2018
 
+
+
 Background:
 
 I learned to program with Python during my time at the University of Chicago. 
@@ -16,6 +18,7 @@ Problems:
 Solution:
 
 I decided to kill 2 birds with 1 stone.
+
 
 
 How it works:
@@ -40,6 +43,7 @@ Each card's value are as follows:
   A is worth 1 or 11 (depending on if the larger value would put you over 21).
 
 
+
 Important terms:
 
 Hit - You ask for an extra card.
@@ -49,7 +53,8 @@ Stay - You are content with your score.
 Bust - You went over the score of 21; you lose your bet.
 
 
-Round:
+
+Round Play:
 
 You are only playing against the Dealer.
 This means that as long as you have more than the Dealer's final score without busting, you win.
@@ -58,7 +63,8 @@ The Dealer is required to hit until it gets to 17 or above.
 Each player can chose to Hit or Stay, as long as they do not Bust
 
 
-How to Win:
+
+Win Condition:
 
 You have blackjack if you start with a score of 21. 
 Blackjack gives a payout of 2.5 times your initial bet.
@@ -68,6 +74,7 @@ This can be done by hitting until you are as close as you are willing to go or s
 Winning this way gives a payout of 2 times your initial bet.
 
 If you bust or get less than the Dealer (without the Dealer busting) you lose your initial bet.
+
 
 
 GOOD LUCK AND HAVE FUN
